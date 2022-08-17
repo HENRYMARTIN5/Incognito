@@ -1,8 +1,6 @@
 # Incognito
 Access the world wide web
 
-
-
 # Setup
 ```
 git clone https://github.com/caracal-js/Incognito.git
